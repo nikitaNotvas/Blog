@@ -1,12 +1,3 @@
-```SQL
-SELECT * FROM 'user'
-
-```  
-1. word 4
-2. word 44
-3. word 444
-word
-* word 
-<p style="color: red">blue</p>
-<>
-:joy:
+ZE NOT FUNNY BLOG WILL BE ABOUT MY NOT FUNNY ADVENTURE IN TA ZA CODING.
+<BR>
+Here you will see new and not new things which I have learned and used in coding.<br>
