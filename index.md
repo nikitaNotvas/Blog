@@ -1,4 +1,3 @@
-# Nikita's blog
 ```SQL
 SELECT * FROM 'user'
 
