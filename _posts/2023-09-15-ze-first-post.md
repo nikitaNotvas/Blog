@@ -1,0 +1,1 @@
+Throught out entrire summer I hade several things in my mind first of them was to finish my summer internship.2nd thing I had my mind on is to buy spaceship which costed $125. Last thing I was thinking about during summer is will I go to colleg or no.
