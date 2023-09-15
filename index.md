@@ -9,7 +9,7 @@ Some times I will post something about games I have recantly played for example:
 <ul>
 {% for post in site.posts %}    
     <li>
-        <a href="/Blog/{{ post.url }}">{{post.title }}</a>
+        <a href="/Blog{{ post.url }}">{{post.title }}</a>
     </li>
 {%endfor %}
 
