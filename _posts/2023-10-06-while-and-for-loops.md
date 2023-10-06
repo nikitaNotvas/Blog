@@ -33,5 +33,8 @@ In todo.py" I was using for while loop to create todo list for user to put his t
             todos.remove(input("Enter you todo which you would like to remove: "))
         else:
             continue
+
+
+            
 First lines of todo list is empty list which will hold users todos.  Second lines of code is used to show users todos and last lines of code are asking user to delete or add new task.
 
